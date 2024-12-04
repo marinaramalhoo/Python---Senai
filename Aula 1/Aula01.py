@@ -1,0 +1,5 @@
+print('Hello, World! :)')
+print('I love living')
+print('Marina')
+print('Bo')
+print('Nada que vale a pena é fácil, lembre-se disso!')
